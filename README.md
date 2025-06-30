@@ -5,11 +5,11 @@ A MERN stack web application that simplifies employee leave requests and approva
 
 ## Tech Stack
 
-- Frontend:React.js  
-- Backend:Node.js + Express.js  
-- Database:MongoDB  
-- Authentication:JWT (JSON Web Token)  
-- Security:bcrypt for password hashing
+- Frontend : React.js  
+- Backend : Node.js + Express.js  
+- Database : MongoDB  
+- Authentication : JWT (JSON Web Token)  
+- Security : bcrypt for password hashing
 
 
 ## Features
